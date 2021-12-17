@@ -13,3 +13,7 @@ Install dependencies with `npm install`.
 ```sh
 npm start
 ```
+
+# Demonstration
+
+![weather-gif](https://github.com/nyozov/weather-app/blob/master/public/weather-app-gif.gif?raw=true)
